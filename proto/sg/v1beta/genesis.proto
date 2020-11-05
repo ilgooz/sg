@@ -1,0 +1,9 @@
+syntax = "proto3";
+package sg.sg.v1beta1;
+
+option go_package = "github.com/test/sg/x/sg/types";
+
+// GenesisState defines the capability module's genesis state.
+message GenesisState {
+}
+
